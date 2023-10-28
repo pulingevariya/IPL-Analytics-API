@@ -22,9 +22,9 @@
 ## 🔍 Detailed Overview
 
 - **Team Analysis:**
--- Seasonal overview, including matches played, super overs, and title conquests.
--- Comprehensive head-to-head comparisons.
--- Highlights like top batsmen and bowlers for the season.
+* Seasonal overview, including matches played, super overs, and title conquests.
+* Comprehensive head-to-head comparisons.
+* Highlights like top batsmen and bowlers for the season.
 
 - **Batsman Deep Dive:**
 Overview across all IPL seasons including total runs, average, and strike rate.
