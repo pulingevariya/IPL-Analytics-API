@@ -21,8 +21,8 @@
 
 ## 🔍 Detailed Overview
 
-- **Team Analysis:**
-<br> - Seasonal overview, including matches played, super overs, and title conquests.
+- **Team Analysis:**<br>
+- Seasonal overview, including matches played, super overs, and title conquests.
   * Comprehensive head-to-head comparisons.
   * Highlights like top batsmen and bowlers for the season.
 
