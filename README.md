@@ -5,19 +5,19 @@
 ## 🌟 Features
 
 - **Team-Centric Statistics:**
-- 📊 Get a comprehensive overview of any team's performance during a season.
-- 🤼‍♂️ Dive into head-to-head stats between two IPL giants.
-- 📅 Traverse through a team's journey across different IPL seasons.
+📊 Get a comprehensive overview of any team's performance during a season.<br>
+🤼‍♂️ Dive into head-to-head stats between two IPL giants.<br>
+📅 Traverse through a team's journey across different IPL seasons.
 
 - **Batsman Breakdown:**
-- 🏃‍♂️ Track the performance of your favorite batsman across IPL seasons.
-- 🌟 Discover seasonal highlights, from total runs to strike rates.
-- 🏏 Check out season-specific performance metrics.
+🏃‍♂️ Track the performance of your favorite batsman across IPL seasons.<br>
+🌟 Discover seasonal highlights, from total runs to strike rates.<br>
+🏏 Check out season-specific performance metrics.
 
 - **Bowler Bonanza:**
-- 🎯 Unravel the mastery of a bowler throughout the IPL's illustrious history.
-- ⚡ Fetch detailed metrics, including economy, total wickets, and best figures.
-- 🔍 Analyze a bowler's performance during a particular season.
+🎯 Unravel the mastery of a bowler throughout the IPL's illustrious history.<br>
+⚡ Fetch detailed metrics, including economy, total wickets, and best figures.<br>
+🔍 Analyze a bowler's performance during a particular season.
 
 ## 🔍 Detailed Overview
 
