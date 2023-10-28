@@ -36,6 +36,8 @@
 
 ## 💾 Usage
 
+To use the API functions, import them into your project and call them with the required parameters. Here's a basic guide:
+
 1. **Season Specific API**
    - \`**overallAllSeasonsAPI**\`: Fetch details of over all seasons.
    - \`**overallSeasonAPI(season)**\`: Fetch details for a given season.
