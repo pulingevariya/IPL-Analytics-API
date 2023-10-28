@@ -27,9 +27,9 @@
   * Highlights like top batsmen and bowlers for the season.
 
 - **Batsman Deep Dive:**
-Overview across all IPL seasons including total runs, average, and strike rate.
-Seasonal breakdown: total runs, fours, sixes, and much more.
+ * Overview across all IPL seasons including total runs, average, and strike rate.
+ * Seasonal breakdown: total runs, fours, sixes, and much more.
 
 - **Bowler Breakdown:**
-Career IPL statistics, including total wickets, economy, and best figures.
-Seasonal insights: wickets, economy, and notable achievements.
+ * Career IPL statistics, including total wickets, economy, and best figures.
+ * Seasonal insights: wickets, economy, and notable achievements.
