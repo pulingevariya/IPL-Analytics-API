@@ -33,3 +33,22 @@
 - **Bowler Breakdown:**
   * Career IPL statistics, including total wickets, economy, and best figures.
   * Seasonal insights: wickets, economy, and notable achievements.
+
+## 💾 Usage
+
+1. Team Specific API
+   - `**teamAllSeasonsAPI(team)**`: Fetch details for a team for over all seasons.
+   - `**teamSeasonAPI(team, season)**`: Fetch details for a team for a given season.
+Team vs. Team API
+
+teamVsTeamAllSeasonsAPI(team1, team2): Compare two teams over all seasons.
+teamVsTeamSeasonAPI(team1, team2, season): Compare two teams for a specific season.
+Batsman Specific API
+
+batsmanAllSeasonsAPI(batsman): Fetch overall statistics of a batsman over all seasons.
+batsmanSeasonAPI(batsman, season): Fetch statistics of a batsman for a specific season.
+Bowler Specific API
+
+bowlerAllSeasonsAPI(bowler): Fetch overall statistics of a bowler over all seasons.
+bowlerSeasonAPI(bowler, season): Fetch statistics of a bowler for a specific season.
+ 
